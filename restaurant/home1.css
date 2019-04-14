@@ -1,0 +1,57 @@
+ul{
+    width: 100%;
+    background-color: antiquewhite
+}
+a:hover{
+    background-color:rgb(211, 185, 185);
+    color: aquamarine;
+
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    float: left;
+    
+}
+li{ font-size: 30px;
+    font-style: oblique;
+    padding: 20px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    float: left;
+    margin-left: 20px;
+    border: 10px 5px  ;
+     color: rgb(82, 55, 14); 
+}
+#Imag{
+    width: 100%;
+    height: 100%;
+}
+#photoAbout,#mnuephoto{
+  
+    margin: 40px 40px 0px 40px;
+    height: 550px;
+    width: 450px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+
+}
+#about{
+    font-style: inherit;
+    text-align: center;
+   margin-bottom: 350px;
+   
+}
+h1{
+    font-size: 50px;
+     margin-top: 80px;
+}
+#mnue{
+    font-style: inherit;
+    text-align: left;
+    margin: 50px;
+}
+
+.mnue{
+    color: dimgray;
+}

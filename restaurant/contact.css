@@ -1,0 +1,58 @@
+body{
+    background-color: aliceblue;
+
+}
+
+a:hover{
+    background-color:rgb(211, 185, 185);
+    color: aquamarine;
+   
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    float: right;
+    
+}
+li{  font-size: 20px;  
+    font-style: oblique;
+    padding: 20px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    float: right;
+    margin-left: 20px;
+    border: 10px 5px  ;
+    color: rgb(82, 55, 14);  
+}
+h3{
+    font-style: oblique;
+    color: cadetblue;
+    text-decoration: wavy;
+    padding: 10px;
+    margin: 30px;
+    font-size: 20px
+}
+p{
+    font-style: italic;
+    padding: 10px;
+    margin: 30px;
+    font-size: 20px;
+}
+h1{
+    padding: 10px;
+    margin: 30px;
+    font-size: 50px;
+
+}
+input{
+    padding: 10px;
+    width: 100%;
+    margin: 10PX;
+}
+button{
+    border: 10px ;
+    color: aquamarine;
+    background-color: cornflowerblue;
+    margin: 20px;
+ padding: 10px;
+}
